@@ -11,7 +11,7 @@ Opinions & impressions about [*WWDC16*](https://developer.apple.com/wwdc/about/)
 
 # Introduction
 
-The purpose of this project is to create a place where the exchange of opinions about *WWDC16* sessions can take place. For each video there is a [corresponding github issue](https://github.com/macoscope/WWDC16/issues) that serves as a place for a discussion regarding a specific video. Enjoy!
+The purpose of this project is to create a place where the exchange of opinions about *WWDC16* sessions can take place. For each video there is a [corresponding GitHub issue](https://github.com/macoscope/WWDC16/issues) that serves as a place for a discussion regarding a specific video. Enjoy!
 
 # Browsing
 
