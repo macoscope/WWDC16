@@ -40,5 +40,5 @@ Sessions with regards to their track (platform they relate to):
 1. Add your opinion. Don't overthink. Just add your impressions regarding specified session.  
 
 # Credits
-Thanks for [@narf](https://twitter.com/narfdotpl) for the idea of using github issue as a place for discussion.
+Thanks for [@narf](https://twitter.com/narfdotpl) for the idea of using GitHub issues as a medium for the discussion.
 
